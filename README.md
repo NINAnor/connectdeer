@@ -9,6 +9,7 @@ This repository is to create content pages for websites linked to [Renewable Rei
 * Hjørtevilt
 * Co-existence
 * [Landscape planning](http://htmlpreview.github.io/?https://github.com/NINAnor/connectdeer/blob/master/landscape_planning.html)
+* [Bram's personal page](http://htmlpreview.github.io/?https://github.com/NINAnor/connectdeer/blob/master/personal_bram.html)
 
 ### content pages
 **Definition**  A content page provides the more detailed content on a topic. Ideally (in my mind), it should be general enough to be usable for different portals. Hence, limiting the need for duplicated efforts.
