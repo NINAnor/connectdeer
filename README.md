@@ -16,7 +16,7 @@ This repository is to create content pages for websites linked to [Renewable Rei
 * Reindeer habitat selection
 * Moose-Vehicle collissions
 * Moose harvest strategies
-* [Habitat functionality](http://htmlpreview.github.io/?https://github.com//NINAnor/connectdeer/blob/master/habitat_functionality.html)
+* [Habitat functionality](http://htmlpreview.github.io/?https://github.com/NINAnor/connectdeer/blob/master/habitat_functionality.html)
 
 ## Hints:
 md-files are writen in markdown (such as this README.md), [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
