@@ -22,4 +22,4 @@ This repository is to create content pages for websites linked to [Renewable Rei
 md-files are writen in markdown (such as this README.md), [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 html-files are writen in html, which is the standard for webpages, [html cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
 
-![alt text](https://github.com//NINAnor/connectdeer/blob/master/figures/moose.png) 
+![moose](https://github.com//NINAnor/connectdeer/blob/master/figures/moose.png) 
