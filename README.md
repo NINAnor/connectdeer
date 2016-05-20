@@ -16,7 +16,7 @@ This repository is to create content pages for websites linked to [Renewable Rei
 **Definition**  A content page provides the more detailed content on a topic. Ideally (in my mind), it should be general enough to be usable for different portals. Hence, limiting the need for duplicated efforts.
 
 **Examples**
-* Reindeer habitat selection
+* [Reindeer habitat selection](http://htmlpreview.github.io/?https://github.com/NINAnor/connectdeer/blob/master/reindeer_hs.html)
 * Moose-Vehicle collissions
 * Moose harvest strategies
 * [Habitat functionality](http://htmlpreview.github.io/?https://github.com/NINAnor/connectdeer/blob/master/habitat_functionality.html)
