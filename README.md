@@ -7,8 +7,8 @@ This repository is to create content pages for websites linked to [Renewable Rei
 **Definition** A portal is a page that provides an umbrella for a set of content pages based on a theme. Ideally (in my mind), the content on these portals should be kept limited. I guess we can see them fulfilling the same role as the introduction in a phd-thesis in Norway, they tie the different articles (here: content pages) together into one thematic story.
 
 **Examples**
-* Hjørtevilt
-* Co-existence
+* [Hjortevilt portal](http://htmlpreview.github.io/?https://github.com/NINAnor/connectdeer/blob/master/hjortevilt.html)
+* [Co-existence portal](http://htmlpreview.github.io/?https://github.com/NINAnor/connectdeer/blob/master/coexistence.html)
 * [Landscape planning](http://htmlpreview.github.io/?https://github.com/NINAnor/connectdeer/blob/master/landscape_planning.html)
 * [Bram's personal page](http://htmlpreview.github.io/?https://github.com/NINAnor/connectdeer/blob/master/personal_bram.html)
 
