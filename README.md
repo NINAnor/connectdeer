@@ -8,7 +8,7 @@ This repository is to create content pages for websites linked to [Renewable Rei
 **Examples**
 * Hjørtevilt
 * Co-existence
-* [Landscape planning](https://github.com//NINAnor/connectdeer/blob/master/landscape_planning.html)
+* [Landscape planning](http://htmlpreview.github.io/?https://github.com//NINAnor/connectdeer/blob/master/landscape_planning.html)
 
 ### content pages
 **Definition**  A content page provides the more detailed content on a topic. Ideally (in my mind), it should be general enough to be usable for different portals. Hence, limiting the need for duplicated efforts.
@@ -16,7 +16,7 @@ This repository is to create content pages for websites linked to [Renewable Rei
 * Reindeer habitat selection
 * Moose-Vehicle collissions
 * Moose harvest strategies
-* [Habitat functionality](https://github.com//NINAnor/connectdeer/blob/master/habitat_functionality.html)
+* [Habitat functionality](http://htmlpreview.github.io/?https://github.com//NINAnor/connectdeer/blob/master/habitat_functionality.html)
 
 ## Hints:
 md-files are writen in markdown (such as this README.md), [markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
